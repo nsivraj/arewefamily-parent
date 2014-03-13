@@ -1,1 +1,3 @@
 include 'arewefamily'
+include 'mod-auth-mgr'
+include 'mod-mongo-persistor'
